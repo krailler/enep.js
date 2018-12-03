@@ -1,0 +1,24 @@
+{
+  "name": "enep.js",
+  "version": "0.0.1",
+  "description": "Enep.js debugging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topikito/enep.js.git"
+  },
+  "keywords": [
+    "enep",
+    "enep.js",
+    "debugging"
+  ],
+  "author": "Roberto Nygaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topikito/enep.js/issues"
+  },
+  "homepage": "https://github.com/topikito/enep.js#readme"
+}
